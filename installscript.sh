@@ -1,6 +1,8 @@
 #!/bin/bash
 # does not work for me yet.
 # b.nelissen
+# i used my linux server using this command:
+# bas@mini:~$ sudo woeusb --device /home/bas/win10/Win10_22H2_EnglishInternational_x64v1.iso /dev/sdc --target-filesystem ntfs
 
 brew install wimlib 
 diskutil list
