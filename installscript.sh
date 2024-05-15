@@ -1,4 +1,6 @@
 #!/bin/bash
+# does not work for me yet.
+# b.nelissen
 
 brew install wimlib 
 diskutil list
